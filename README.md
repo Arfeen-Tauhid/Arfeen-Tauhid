@@ -6,7 +6,7 @@ Whether I’m building dynamic web applications or diving into the captivating w
 
 Join me on this exhilarating adventure through the tech universe! From tackling coding challenges to collaborating on exciting projects, there’s always something happening here. So, buckle up and take a look around—let’s inspire each other and create something truly amazing together! 🌈🤝
 <center>
-![Description](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Q4M3k3cmNoczhhN3AxNWc1dnA1ajgxbTV4ZnNmaW1oZWFydmh5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6zsb4xG3l2GfLbilRS/giphy.gif)
+![Collaboration GIF](https://media.giphy.com/media/3o7aD2sa1g0g0g0g0g/giphy.gif)
 </center>
 ## 🌈 About Me
 - 🔭 Currently diving deep into **Caubiri**—a project that fuels my creativity every day!
@@ -24,7 +24,7 @@ Join me on this exhilarating adventure through the tech universe! From tackling 
 ## 📈 My GitHub Stats
 
 ### Overall Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arfeen-Tauhid&show_icons=true&theme=radical&count_private=true&hide=prs)
+![My GitHub Stats][(https://github-readme-stats.vercel.app/api?username=Arfeen-Tauhid&show_icons=true&theme=radical&count_private=true&hide=prs)](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZpczhvZnpwYW9yd2NuOHlvbnprc214YWF3MTZ5dnl5enUwNDcxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif)
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arfeen-Tauhid&layout=compact&theme=radical&hide=html)
