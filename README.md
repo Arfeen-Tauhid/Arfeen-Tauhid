@@ -16,7 +16,7 @@ Welcome to my GitHub playground! I'm a passionate developer on a mission to craf
 - **Tools:** Git, VS Code, and a dash of creativity to spice things up! 🎨
 
 ## 📈 My GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=arfeentauhid&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arfeen-Tauhid&show_icons=true&theme=radical)
 
 ## 🌟 Featured Projects
 - [**Caubiri**](link-to-caubiri): A brief description of what this project does and why it's special. 🌟
