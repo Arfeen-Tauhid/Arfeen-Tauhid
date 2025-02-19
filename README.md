@@ -22,7 +22,7 @@ Join me on this exhilarating adventure through the tech universe! From tackling 
 ## 📈 My GitHub Stats
 
 ### Overall Stats
-![My GitHub Stats][(https://github-readme-stats.vercel.app/api?username=Arfeen-Tauhid&show_icons=true&theme=radical&count_private=true&hide=prs)](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZpczhvZnpwYW9yd2NuOHlvbnprc214YWF3MTZ5dnl5enUwNDcxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arfeen-Tauhid&show_icons=true&theme=radical&count_private=true&hide=prs)
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arfeen-Tauhid&layout=compact&theme=radical&hide=html)
