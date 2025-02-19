@@ -23,14 +23,6 @@ Welcome to my GitHub playground! I'm a passionate developer on a mission to craf
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arfeen-Tauhid&layout=compact&theme=radical&hide=html)
 
-### Contribution Graph
-![Contribution Graph](https://github-readme-stats.vercel.app/api/gists?username=Arfeen-Tauhid&show_icons=true&theme=radical)
-
-### Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arfeen-Tauhid&theme=radical)
-
-### Recent Activity
-![Recent Activity](https://activity-graph.herokuapp.com/graph?username=Arfeen-Tauhid&theme=radical)
 
 ## 📚 Continuous Learning
 I believe that learning never stops! I regularly engage with online courses, tutorials, and coding challenges to enhance my skills. Currently, I am exploring:
