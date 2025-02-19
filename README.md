@@ -5,9 +5,9 @@ I’m excited to share my journey as a developer with you! My passion lies in cr
 Whether I’m building dynamic web applications or diving into the captivating world of 3D graphics, I’m driven by a desire to push boundaries and discover new horizons. I truly believe that technology has the power to transform lives, and I’m thrilled to be part of that change! 💡🌍
 
 Join me on this exhilarating adventure through the tech universe! From tackling coding challenges to collaborating on exciting projects, there’s always something happening here. So, buckle up and take a look around—let’s inspire each other and create something truly amazing together! 🌈🤝
-
+<center>
 ![Description](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Q4M3k3cmNoczhhN3AxNWc1dnA1ajgxbTV4ZnNmaW1oZWFydmh5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6zsb4xG3l2GfLbilRS/giphy.gif)
-
+</center>
 ## 🌈 About Me
 - 🔭 Currently diving deep into **Caubiri**—a project that fuels my creativity every day!
 - 🌱 On an exciting journey to master **Three.js** and bring stunning 3D experiences to life.
