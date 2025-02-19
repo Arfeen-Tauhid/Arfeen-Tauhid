@@ -18,6 +18,12 @@ Welcome to my GitHub playground! I'm a passionate developer on a mission to craf
 ## 📈 My GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arfeen-Tauhid&show_icons=true&theme=radical)
 
+## 📚 Continuous Learning
+I believe that learning never stops! I regularly engage with online courses, tutorials, and coding challenges to enhance my skills. Currently, I am exploring:
+- **Web Development:** Enhancing my front-end skills with React and diving deeper into back-end development with Node.js.
+- **3D Graphics:** Mastering Three.js to create interactive 3D web applications.
+- **Data Structures & Algorithms:** Strengthening my problem-solving skills.
+
 ## 🌟 Featured Projects
 - [**Caubiri**](link-to-caubiri): It is Riding Application. 🌟
 
