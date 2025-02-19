@@ -23,10 +23,6 @@ Welcome to my GitHub playground! I'm a passionate developer on a mission to craf
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arfeen-Tauhid&layout=compact&theme=radical&hide=html)
 
-### Profile Summary
-![Profile Summary](https://github-profile-summary.vercel.app/api?username=Arfeen-Tauhid)
-
-
 ## 📚 Continuous Learning
 I believe that learning never stops! I regularly engage with online courses, tutorials, and coding challenges to enhance my skills. Currently, I am exploring:
 - **Web Development:** Enhancing my front-end skills with React and diving deeper into back-end development with Node.js.
