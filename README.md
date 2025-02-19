@@ -19,9 +19,7 @@ Welcome to my GitHub playground! I'm a passionate developer on a mission to craf
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arfeen-Tauhid&show_icons=true&theme=radical)
 
 ## 🌟 Featured Projects
-- [**Caubiri**](link-to-caubiri): A brief description of what this project does and why it's special. 🌟
-- [**Project 1**](link-to-project): A brief description of what this project does. 🚀
-- [**Project 2**](link-to-project): A brief description of what this project does. 🎉
+- [**Caubiri**](link-to-caubiri): It is Riding Application. 🌟
 
 ## 🤝 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/arfeen-tauhid) 🌐
